@@ -1,0 +1,23 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+}
+.not-found-surprise__button {
+    background: #1023f8;
+    color: #fff;
+    border: none;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+.not-found-surprise__text {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
